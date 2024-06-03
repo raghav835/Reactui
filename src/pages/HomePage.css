@@ -1,0 +1,41 @@
+.home-page {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .categories {
+    margin-top: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+  }
+  
+  .categories h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .category-list-box {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .category-item {
+    background-color: #f4f4f4;
+    border-radius: 8px;
+    padding: 10px;
+  }
+  
+  .category-link {
+    text-decoration: none;
+    color: #333;
+    font-size: 1.2rem;
+  }
+  
+  .category-link:hover {
+    background-color: #007bff;
+    color: #fff;
+  }
+  

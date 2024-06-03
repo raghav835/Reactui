@@ -1,0 +1,40 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+  }
+  
+  .navbar-logo a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.5em;
+  }
+  
+  .navbar-search {
+    flex: 1;
+    margin: 0 20px;
+  }
+  
+  .navbar-icon {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 1.5em;
+  }
+  
+  
+  
+  .cart-count {
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    padding: 5px 8px;
+    font-size: 0.8em;
+    position: absolute;
+    top: 5px;
+    right: 5px;
+  }
+  
